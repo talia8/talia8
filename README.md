@@ -8,7 +8,7 @@ My skill set covers everything from API architecture and data pipelines to craft
 
 If you find something that piques your interest, reach out and let's build something great together!
 
----
+#
 
 ### 🛠️ Languages and Tools
 
