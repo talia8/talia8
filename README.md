@@ -3,7 +3,7 @@
 ` AI | Computer Vision ` 
 
 Hello world! I'm a **software developer** and **computer vision** enthusiast trying to make my mark in the digital world.
-My skill set covers everything from API architecture and data pipelines to crafting user interfaces to using AI models and finetuning LLMs. Coding projects that I enjoy the most are the ones born of my own imagination.
+My skill set covers everything from API architectures to crafting user interfaces to using AI models and finetuning LLMs. Coding projects that I enjoy the most are the ones born of my own imagination.
 
 
 If you find something that piques your interest, reach out and let's build something great together!
